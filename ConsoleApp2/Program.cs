@@ -8,6 +8,17 @@ namespace ConsoleApp2
 {
     class Program
     {
+        class Purse
+        {
+            void GiveMoney()
+            {
+
+            }
+            void TakeMoney()
+            {
+
+            }
+        }
         static void Main(string[] args)
         {
         }
