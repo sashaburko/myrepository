@@ -21,6 +21,7 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
+            Purse p = new Purse();
         }
     }
 }
