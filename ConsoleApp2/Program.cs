@@ -1,4 +1,5 @@
-﻿using System;
+﻿using mydll;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +22,7 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
-            Purse p = new Purse();
+            CreditCard c = new CreditCard();
         }
     }
 }
