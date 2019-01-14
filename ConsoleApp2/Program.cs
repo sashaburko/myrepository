@@ -1,4 +1,5 @@
-﻿using System;
+﻿using money;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Purse p = new Purse();
+            Money m = new Money(5,4);
         }
     }
 }
